@@ -35,4 +35,4 @@ To run this application locally, you need to set up both the backend and fronten
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/joelukransajan/BankingServicesApplication.git
+   git clone https://github.com/JoelUkranSajan/BankingServicesApplication.git
